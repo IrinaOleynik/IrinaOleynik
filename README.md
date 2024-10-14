@@ -1,9 +1,14 @@
 <h2> Привет, я Ира <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p><em>Начинающий Java-разработчик</em></p> </a>
-  <a href="https://t.me/Iren_Oleynik" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+ <div style="display: flex; align-items: center;">
+   <a href="https://t.me/Iren_Oleynik" target="_blank">
+    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" alt="giphy logo" />
   </a>
+  <a href="https://t.me/Iren_Oleynik" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
+  </a>
+</div>
 
 <h3 align="left">🛠 Мой стек:</h3>
 
@@ -46,19 +51,7 @@
   ### [* Интернет магазин](https://github.com/IrinaOleynik/SOLID_Shop.git)
   Программа реализации бизнес-логики интернет магазина согласно принципам SOLID.
 
-  </a> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
- 
-<!--
-**IrinaOleynik/IrinaOleynik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-Here are some ideas to get you started:
+  ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrinaOleynik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
